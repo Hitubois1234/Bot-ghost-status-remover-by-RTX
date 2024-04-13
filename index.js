@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["Watching servers, developed by hitansh777","Add me to your server for very cool features"];
 
 
 let currentIndex = 0;
